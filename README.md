@@ -1,4 +1,4 @@
-# MediEase. MERN Project
+# MediEase Project
 
 MediEase is a medical booking, patients can book a doctor if the doctor is part of this website. this website can access 2 roles, namely patients and doctors.
 
